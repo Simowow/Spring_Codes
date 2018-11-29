@@ -7,7 +7,7 @@ public class GetterGreetingService implements GreetingServices {
 
 	@Override
 	public String sayGreeting() {
-		return "Hello - I was injected by the getter!!!";
+		return "Hello - I was injected by the getter!!!!";
 	}
 
 }
